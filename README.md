@@ -25,7 +25,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Live Site URL: [unavailable]()
+- Live Site URL: [click here](https://profile-card-component-solution.vercel.app/)
 
 ## My process
 
