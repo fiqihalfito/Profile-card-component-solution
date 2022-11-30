@@ -1,0 +1,14 @@
+@layer base {
+    body {
+        background-image: url("../public/images/bg-pattern-top.svg"), url("../public/images/bg-pattern-bottom.svg");
+        background-repeat: no-repeat, no-repeat;
+        background-position: right 50vw bottom 50vh, left 50vw top 50vh;
+        @apply bg-darkCyan;
+    }
+}
+
+@layer components {
+    .avatar-position {
+        margin-top: -48px;
+    }
+}
